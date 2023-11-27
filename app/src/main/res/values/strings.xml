@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">3d Password</string>
+    <string name="title_activity_home">Home</string>
+    <string name="OpenDrawer">Open navigation drawer</string>
+    <string name="CloseDrawer">Close navigation drawer</string>
+
+</resources>

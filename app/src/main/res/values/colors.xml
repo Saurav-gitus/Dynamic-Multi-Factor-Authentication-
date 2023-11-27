@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple">#8692f7</color>
+    <color name="filledColor">#8692f7</color> <!-- Change to your desired filled color -->
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306575051455",
+    "project_id": "d-password-7e9de",
+    "storage_bucket": "d-password-7e9de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306575051455:android:65b54b7895af3e9a4f140a",
+        "android_client_info": {
+          "package_name": "com.example.a3dpassword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306575051455-05b17ciak13ucu1mve4dvlf6bo83cb19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKZ9zPDNmqB5BRQw1cMLM-KwH1NGMO3BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306575051455-05b17ciak13ucu1mve4dvlf6bo83cb19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
